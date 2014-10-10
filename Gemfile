@@ -4,7 +4,6 @@ gem 'rails', '3.2.19'
 gem 'jquery-rails'
 gem 'pg'
 gem 'haml-rails'
-gem 'erb2haml'
 
 group :assets do
   gem 'sass-rails',   '~> 3.2.3'
